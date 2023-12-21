@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Ajay Jaishwal</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
+<a href="https://658420babd2a38e15ddf1037--poetic-mandazi-a5d74f.netlify.app/">
+  <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://ArjunSinghBhakunirohi.vercel.app" />
+</a>
+<a title="arjunbhakuni23@gmail.com" href="mailto:ajaishwal2020@gmail.com">
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="1995sirohis@gmail.com" />
+</a>
+<a href="https://www.linkedin.com/in/ajay-jaishwal-b2971715b/">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/ArjunSinghBhakunirohi-ba4636136/" />
+</a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajayjaishwal&label=Profile%20views&color=0e75b6&style=flat" alt="ajayjaishwal" /> </p>
 
 - 🌱 I’m currently learning **MERN stack at Masai School**
@@ -11,11 +21,6 @@
 
 - ⚡ Fun fact **Fact:I love to learn new things**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ajay-jaishwal-b2971715b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay jaishwal" height="30" width="40" /></a>
-  <a href="https://658420babd2a38e15ddf1037--poetic-mandazi-a5d74f.netlify.app/" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/portfolio_281089" alt="ajay jaishwal" height="30" width="40" /></a>
-</p>
 
 
 <h3 align="left">Languages and Tools:</h3>
