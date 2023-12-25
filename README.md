@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajay Jaishwal</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
-<a href="https://658420babd2a38e15ddf1037--poetic-mandazi-a5d74f.netlify.app/">
+<a href="https://ajayjaishwal.github.io/portfolio/">
   <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://ArjunSinghBhakunirohi.vercel.app" />
 </a>
 <a title="arjunbhakuni23@gmail.com" href="mailto:ajaishwal2020@gmail.com">
